@@ -1,0 +1,3 @@
+select count() from Contact
+
+select count(id) from contact
